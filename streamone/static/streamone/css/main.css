@@ -1901,6 +1901,10 @@ td,th{
     cursor:pointer
     }
 
+.contact_info{
+    margin-bottom: 100px;
+}
+
 .modal-message .modal-dialog{
     position:absolute;
     top:36%;
@@ -3909,6 +3913,7 @@ border:none
 
 @media (max-width: 991px){
         .footer-widgets{padding-left:70px}
+        .caption-footer-widgets{padding-left:20px}
     }
 
 @media (max-width: 991px){
@@ -4010,7 +4015,7 @@ border:none
     font-size: 30px;
 }
 
-.footer-caption h6{
+.footer-caption h5{
     margin-top: 20px;
     margin-bottom: 50px;
     color:#87898f
