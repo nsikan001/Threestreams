@@ -2,7 +2,7 @@
 body{
     color:#87898f;
     font-family:"Roboto",sans-serif;
-    font-size:15px;
+    font-size:16px;
     font-weight:400;
     line-height:25px;
     position:relative;
@@ -715,7 +715,7 @@ td,th{
 
 .section-title h4{
     color:#e3735e;
-    font-weight:400
+    font-weight:300
     }
 
 @media (max-width: 767px){
@@ -4114,7 +4114,7 @@ position: relative;
 .services_glance{
     margin-top: -20px;
     margin-bottom: 70px;
-    font-size: 50px;
+    font-size: 40px;
 }
 
 .why-us{
